@@ -19,7 +19,7 @@ It allows you to chat with a helpful AI agent right from your terminal — power
 ### 1. Clone this repo
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/areebabano/Final-Practical-Task/tree/main/hello_agent/async/hello_agent>
 cd hello_agent
 2. Initialize your project with uv (if not done yet)
 
